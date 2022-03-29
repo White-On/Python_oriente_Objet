@@ -1,7 +1,7 @@
-from abc import abstractmethod
+from abc import ABC, abstractmethod
 import ContextX
 
-class AbstactState:
+class AbstactState(ABC):
     def __init__(self,context:ContextX) -> None:
         self.context = context
     @abstractmethod
