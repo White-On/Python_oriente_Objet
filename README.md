@@ -9,3 +9,6 @@ Here you'll find my jupyter notebook and my expermiments around design pattern.
 **Portes_Train_Dp_State** : the state DP for a metro door closing system.
 
 **Template_Method** : my attempts with the Template Method design pattern
+
+**Strategy** : my attempts with the Strategy design pattern
+
